@@ -108,7 +108,7 @@ TEMPLATE_DIRS = (
 
 INSTALLED_APPS = (
     'django.contrib.admin',
-    'renewal',
+    'renewals',
 )
 
 # A sample logging configuration. The only tangible logging
